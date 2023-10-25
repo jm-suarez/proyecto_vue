@@ -1,0 +1,146 @@
+{
+    "areas": [
+      {
+        "id": 1,
+        "nombre": "Finanzas",
+        "encargado": "Jose Linares",
+        "funcionarios": 4
+      },
+      {
+        "id": 2,
+        "nombre": "Legal",
+        "encargado": "María Sánchez",
+        "funcionarios": 5
+      },
+      {
+        "id": 3,
+        "nombre": "Informática",
+        "encargado": "Carlos Pérez",
+        "funcionarios": 8
+      },
+      {
+        "id": 4,
+        "nombre": "Recursos Humanos",
+        "encargado": "Laura Rodríguez",
+        "funcionarios": 6
+      },
+      {
+        "id": 5,
+        "nombre": "Ventas",
+        "encargado": "Ana Gómez",
+        "funcionarios": 10
+      },
+      {
+        "id": 6,
+        "nombre": "Operaciones",
+        "encargado": "Pedro Ruiz",
+        "funcionarios": 7
+      },
+      {
+        "id": 7,
+        "nombre": "Producción",
+        "encargado": "Luis Torres",
+        "funcionarios": 12
+      },
+      {
+        "nombre": "Márketing",
+        "encargado": "Sofía López",
+        "funcionarios": 5,
+        "id": 8
+      },
+      {
+        "id": 9,
+        "nombre": "Compras",
+        "encargado": "Daniel Medina",
+        "funcionarios": 6
+      },
+      {
+        "nombre": "Calidad",
+        "encargado": "Elena Mendoza",
+        "funcionarios": 4,
+        "id": 10
+      }
+    ],
+    "activos": [
+      {
+        "id": 1,
+        "tipo": "Computadora",
+        "marca": "HP",
+        "modelo": "Pavilion 360",
+        "estado": "Nuevo",
+        "areaId": 3
+      },
+      {
+        "id": 2,
+        "tipo": "Impresora",
+        "marca": "Epson",
+        "modelo": "LaserJet 1000",
+        "estado": "Usado",
+        "areaId": 6
+      },
+      {
+        "id": 3,
+        "tipo": "Mesa de Oficina",
+        "marca": "IKEA",
+        "modelo": "Linnmon",
+        "estado": "En desuso",
+        "areaId": 9
+      },
+      {
+        "id": 4,
+        "tipo": "Teléfono",
+        "marca": "Samsung",
+        "modelo": "Galaxy S21",
+        "estado": "Nuevo",
+        "areaId": 5
+      },
+      {
+        "id": 5,
+        "tipo": "Silla de Oficina",
+        "marca": "Steelcase",
+        "modelo": "Leap",
+        "estado": "Usado",
+        "areaId": 2
+      },
+      {
+        "id": 6,
+        "tipo": "Escritorio",
+        "marca": "IKEA",
+        "modelo": "Malm",
+        "estado": "Nuevo",
+        "areaId": 10
+      },
+      {
+        "id": 7,
+        "tipo": "Proyector",
+        "marca": "BenQ",
+        "modelo": "MH530",
+        "estado": "Nuevo",
+        "areaId": 7
+      },
+      {
+        "id": 8,
+        "tipo": "Archivador",
+        "marca": "Staples",
+        "modelo": "4-Drawer Lateral",
+        "estado": "Usado",
+        "areaId": 4
+      },
+      {
+        "id": 9,
+        "tipo": "Portátil",
+        "marca": "Dell",
+        "modelo": "XPS 13",
+        "estado": "Usado",
+        "areaId": 8
+      },
+      {
+        "id": 10,
+        "tipo": "Teléfono",
+        "marca": "Apple",
+        "modelo": "iPhone 12",
+        "estado": "Nuevo",
+        "areaId": 1
+      }
+    ]
+  }
